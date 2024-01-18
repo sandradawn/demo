@@ -1,2 +1,3 @@
-# demo
-First Git Repository.
+# Demo
+My first Git Repository.
+Name : Sandra Elizabeth Dawn.
